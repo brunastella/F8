@@ -1,0 +1,10 @@
+C:\Users\bruna\source\repos\F8\bin\Debug\F8.exe.config
+C:\Users\bruna\source\repos\F8\bin\Debug\F8.exe
+C:\Users\bruna\source\repos\F8\bin\Debug\F8.pdb
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.csproj.AssemblyReference.cache
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.FormCalculoFolhaPagamento.resources
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.Properties.Resources.resources
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.csproj.GenerateResource.cache
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.exe
+C:\Users\bruna\source\repos\F8\obj\Debug\F8.pdb
